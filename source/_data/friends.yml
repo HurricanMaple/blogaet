@@ -1,0 +1,21 @@
+﻿- group: # 分组标题
+  description:  # 分组描述
+  items:
+    - title: 飓枫的主页
+      avatar: https://static.codemao.cn/coco/player/unstable/SJBAwhdHj.image/x-icon?hash=FoRRKUrBAKQ2bBCKAC9wXjlW9A0m
+      url: https://fiee.wtdown.top/home
+      screenshot: https://fiee.wtdown.top/home/img/background2.webp
+      keywords: # 关键词
+      description: # 描述
+    - title: Rapid免费二级域名分发
+      avatar: http://nom.rapidwt.cn/images/logo2.png
+      url: https://nom.rapidwt.cn/
+      screenshot: # 截图
+      keywords: # 关键词
+      description: # 描述
+    - title: WindBack
+      avatar: https://static.windback.xyz/avatar.jpg
+      url: https://windback.xyz
+      screenshot: https://static.windback.xyz/screenshot.png
+      keywords: # 关键词
+      description: 各自努力，山顶再见
